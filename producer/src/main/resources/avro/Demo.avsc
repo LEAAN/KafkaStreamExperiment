@@ -1,0 +1,8 @@
+{"namespace": "com.wbaa.experiment.kafkastream.avro",
+  "type": "record",
+  "name": "Demo",
+  "fields": [
+    {"name": "id", "type": "int"},
+    {"name": "event", "type": "string"}
+  ]
+}
